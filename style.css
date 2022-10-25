@@ -1,0 +1,14 @@
+.carousel-item {
+  height: 300px;
+}
+.carousel-item {
+  margin-top: -120px;
+}
+
+.assets-img {
+  width: 100%;
+}
+
+#assets .row > * {
+  padding: 0%;
+}
